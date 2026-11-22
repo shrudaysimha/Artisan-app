@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+groq
+rembg
+Pillow
+aiosqlite
+python-dotenv
+motor
+cloudinary
+google-generativeai
+websockets
